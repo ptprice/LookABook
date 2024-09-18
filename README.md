@@ -26,4 +26,4 @@ This project is licensed under the MIT license.
 ## Questions
 If you have any questions, please feel free to reach out to me at ptprice@gmail.com. You can also find me on GitHub at [ptprice]
 ## Acknowledgments
-Assistance was provided by Mariah Wear Teachers Assistant and Luis Sanchez Bottcamp Tutor
+Assistance was provided by Mariah Wear Teachers Assistant and Luis Sanchez Bootcamp Tutor
